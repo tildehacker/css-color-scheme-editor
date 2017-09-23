@@ -1,0 +1,10 @@
+input {
+  border: 0;
+  width: 100px;
+  text-align: center;
+  line-height: 50px;
+  vertical-align: middle;
+}
+input[type="button"] {
+  cursor: pointer;
+}

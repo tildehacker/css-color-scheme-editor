@@ -1,0 +1,24 @@
+{
+  "name": "css-color-scheme-editor-webapp",
+  "description": "A Web interface for css-color-scheme-editor",
+  "main": "app",
+  "authors": [],
+  "keywords": [
+    "css",
+    "color",
+    "scheme",
+    "editor"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1"
+  }
+}

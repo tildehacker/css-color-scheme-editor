@@ -1,0 +1,22 @@
+{
+  "name": "css-color-scheme-editor-webapp",
+  "version": "0.1.0",
+  "description": "A Web interface for css-color-scheme-editor",
+  "main": "app",
+  "dependencies": {},
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "gulp": "^3.9.1",
+    "main-bower-files": "^2.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "color",
+    "scheme",
+    "editor"
+  ],
+  "author": ""
+}
